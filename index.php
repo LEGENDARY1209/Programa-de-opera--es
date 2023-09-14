@@ -41,6 +41,7 @@
         <title>Programa de operações</title>
         <meta name='viewport' content='width=device-width, initial-scale=1'>
         <link rel='stylesheet' type='text/css' media='screen' href='style.css'>
+        <h1><tittle>Operações</tittle></h1>
         <script src='main.js'></script>
         <style>
             input,select{padding :10px; margin: 5px;}
@@ -52,6 +53,7 @@
             <label>Número 1: <input type="text" name="txtNumero1"/></label>
             <label>Número 2: <input type="text" name="txtNumero2"/></label>
             <label>
+                
                 Operação
                 <select name="slOperacao">
                     <option value="+">Adição</option>
