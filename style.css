@@ -1,0 +1,12 @@
+/* styles.css */
+
+body {
+    background-color: black;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+input, select {
+    padding: 10px;
+    margin: 5px;
+}
